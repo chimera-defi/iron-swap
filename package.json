@@ -1,5 +1,6 @@
 {
   "name": "iron-swap",
+  "version": "1.0.0",
   "scripts": {
     "start": "hardhat node",
     "compile": "hardhat compile"
